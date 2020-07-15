@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Hi there 👋 I'm bnanchen!
+- 🏃 I’m currently working with Vue.js
+- 🎓 Freshly graduated in computer science
+You can explore some of my projects: 👇🏼
+
+
+
 <!--
 **bnanchen/bnanchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
