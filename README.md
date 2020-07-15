@@ -2,6 +2,7 @@
 
 Hi there 👋 I'm bnanchen!
 - 🏃 I’m currently working with Vue.js
+- 📫 You can reach me on Twitter: @BastianNanchen
 - 🎓 Freshly graduated in computer science
 You can explore some of my projects: 👇🏼
 
