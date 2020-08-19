@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 Hi there 👋 I'm bnanchen!
+- 🌄 I'm looking for an internship or a job
 - 🏃 I’m currently working with Vue.js
 - 📫 You can reach me on Twitter: @BastianNanchen
 - 🎓 Freshly graduated in computer science
