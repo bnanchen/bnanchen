@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 Hi there 👋 I'm bnanchen!
-- 🌄 I'm looking for an internship or a job
-- 🏃 I’m currently working with Vue.js
+- 🏃 I’m currently working at Strong Network
 - 📫 You can reach me on Twitter: @BastianNanchen
 - 🎓 Freshly graduated in computer science
 You can explore some of my projects: 👇🏼
